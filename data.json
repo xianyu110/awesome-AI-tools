@@ -17978,5 +17978,335 @@
     ],
     "id": "972ef441-a1fc-4b91-a674-7284805db7c1",
     "kind": "project"
+  },
+  {
+    "url": "https://ai-rap-video.asia",
+    "description": "人声+照片生成 9:16 对口型说唱短视频（独立工具）",
+    "image": "https://ai-rap-video.asia/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "8365ce80-452c-41ba-8c75-9eb11e39a445",
+    "title": "airapvideo",
+    "type": "web"
+  },
+  {
+    "url": "https://tryalorsondanse.video",
+    "description": "两张照片生成约15秒白棚双人舞短视频（独立粉丝工具）",
+    "image": "https://tryalorsondanse.video/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "2b29b17e-0f6a-43e7-b128-edf260cf27d2",
+    "title": "Alors on Danse AI",
+    "type": "web"
+  },
+  {
+    "url": "https://badtimesai.cc",
+    "description": "一张照片生成约15秒 9:16 争吵/对口型舞蹈短视频（独立粉丝工具）",
+    "image": "https://badtimesai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "1e14c552-5f71-4ff6-9080-b092b9db1e7a",
+    "title": "Bad Times AI",
+    "type": "web"
+  },
+  {
+    "url": "https://bbywowguyai.cc",
+    "description": "一张照片生成约10秒 9:16 quince/concha 梗短视频（独立粉丝工具）",
+    "image": "https://bbywowguyai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "a13e8169-c9ed-4283-a1e6-7eb1a507f8e3",
+    "title": "bbywowguy AI",
+    "type": "web"
+  },
+  {
+    "url": "https://burningbridgesvideoai.com",
+    "description": "1–2张照片生成派对模板短视频（银杯 / Where she at，独立粉丝工具）",
+    "image": "https://burningbridgesvideoai.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "684c4716-6142-43cf-b969-408752c782b7",
+    "title": "Burning Bridges AI",
+    "type": "web"
+  },
+  {
+    "url": "https://catinthehat.cc",
+    "description": "一张照片生成约10秒 9:16 门铃万圣节恶搞短视频（独立粉丝工具）",
+    "image": "https://catinthehat.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "f879928d-a76e-498e-97bd-dccb9e56c031",
+    "title": "Cat in the Hat AI",
+    "type": "web"
+  },
+  {
+    "url": "https://chatgptmillionaire.cc",
+    "description": "一张自拍生成约10–13秒「Get a job.」梗短视频（独立粉丝工具）",
+    "image": "https://chatgptmillionaire.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "bf331b0c-8d19-49f6-a055-ce6a7a8fc154",
+    "title": "ChatGPT Millionaire AI",
+    "type": "web"
+  },
+  {
+    "url": "https://chatgtt.cc",
+    "description": "一张照片生成约10–13秒 9:16 信用卡拒付梗短视频（独立粉丝工具）",
+    "image": "https://chatgtt.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "953cd51a-d682-4bc4-b26d-f5406733234c",
+    "title": "ChatGTT",
+    "type": "web"
+  },
+  {
+    "url": "https://chebamanai.cc",
+    "description": "一张全身照生成约15–17秒红色舞台 Tecktonik 短视频（独立粉丝工具）",
+    "image": "https://chebamanai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "fab76610-04e7-4117-a5ae-d211ba87987b",
+    "title": "Cheba Man AI",
+    "type": "web"
+  },
+  {
+    "url": "https://choosintexas.run",
+    "description": "一张照片生成约15秒 9:16 emo 屋顶翻唱短视频（独立粉丝工具）",
+    "image": "https://choosintexas.run/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "06414070-781e-4c25-81db-0e1d08f80b2a",
+    "title": "Choosin Texas AI",
+    "type": "web"
+  },
+  {
+    "url": "https://trychuttamalle.app",
+    "description": "授权人像生成约15秒 9:16 生成式舞蹈短视频（独立粉丝工具）",
+    "image": "https://trychuttamalle.app/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "6009bc40-a192-406f-9ed8-d929771eb3c8",
+    "title": "Chuttamalle Dance AI",
+    "type": "web"
+  },
+  {
+    "url": "https://coralineai.run",
+    "description": "一张自拍生成约10秒 9:16 纽扣眼人偶变身短视频（独立粉丝工具）",
+    "image": "https://coralineai.run/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "c1642d3f-4be5-4862-9630-036927620d5e",
+    "title": "coralineai",
+    "type": "web"
+  },
+  {
+    "url": "https://corpsebride.cc",
+    "description": "一张照片生成约10秒 9:16 鬼新娘/新郎墓园共舞短视频（独立粉丝工具）",
+    "image": "https://corpsebride.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "d559488a-5f3e-4e53-8cd9-a78af8b5a37a",
+    "title": "Corpse Bride AI",
+    "type": "web"
+  },
+  {
+    "url": "https://pradaai.cc",
+    "description": "一张照片生成约15秒 9:16 街头造型焕新短视频（独立粉丝工具）",
+    "image": "https://pradaai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "5768d01e-6e33-400a-b0a2-bdf6604629f9",
+    "title": "Devil Wears Prada AI",
+    "type": "web"
+  },
+  {
+    "url": "https://flyingcarai.cc",
+    "description": "一张自拍生成约10–12秒夜坡垂直喷气翻转短视频（独立粉丝工具）",
+    "image": "https://flyingcarai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "6704f944-f974-41df-80e6-a673d29eec65",
+    "title": "Flying Roadster AI",
+    "type": "web"
+  },
+  {
+    "url": "https://tryhotellobby.app",
+    "description": "两张照片生成约15秒酒店大堂双人短视频（独立粉丝工具）",
+    "image": "https://tryhotellobby.app/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "9f563076-361c-430b-b8f0-00445c9dad4b",
+    "title": "Hotel Lobby AI",
+    "type": "web"
+  },
+  {
+    "url": "https://huginheaven.cc",
+    "description": "两张照片生成约12–15秒天堂楼梯重逢纪念短片（独立纪念工具，18+）",
+    "image": "https://huginheaven.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "b695f20f-fa7c-4c94-8597-ae3307ad9cc1",
+    "title": "Hug In Heaven AI",
+    "type": "web"
+  },
+  {
+    "url": "https://jeanphilai.cc",
+    "description": "一张照片生成约12–15秒金发波波头+小胡子短视频（独立粉丝工具）",
+    "image": "https://jeanphilai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "d46f979e-cd15-4ff0-ba43-3bd44b45804f",
+    "title": "JeanPhilAI",
+    "type": "web"
+  },
+  {
+    "url": "https://coldplayaffairai.cc",
+    "description": "1–2张照片生成约10秒体育场 kiss-cam 短视频（独立粉丝工具）",
+    "image": "https://coldplayaffairai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "521a3810-37a3-49a9-ab50-3a3b46494d7b",
+    "title": "Kiss Cam AI",
+    "type": "web"
+  },
+  {
+    "url": "https://raindanceai.click",
+    "description": "两张照片生成约15秒码头多镜头短视频（独立粉丝工具）",
+    "image": "https://raindanceai.click/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "b540a4c7-2eed-4dd6-9e7b-2ad0e6b01402",
+    "title": "Raindance AI",
+    "type": "web"
+  },
+  {
+    "url": "https://remixmeme.com",
+    "description": "用照片生成舞蹈/宠物/搞笑梗短视频（独立工具）",
+    "image": "https://remixmeme.com/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "5f5e57b8-017f-4552-a711-6b8df8b71946",
+    "title": "RemixMeme",
+    "type": "web"
+  },
+  {
+    "url": "https://rumpelstiltskindance.video",
+    "description": "1–2张照片生成谷仓踮脚舞蹈短视频（独立粉丝工具）",
+    "image": "https://rumpelstiltskindance.video/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "14ef8884-4469-4e4b-bcef-da12f07c3f0c",
+    "title": "Rumpelstiltskin Dance AI",
+    "type": "web"
+  },
+  {
+    "url": "https://shanshenbuai.cc",
+    "description": "一张照片生成约13–15秒 9:16 闪身步舞蹈短视频（独立粉丝工具）",
+    "image": "https://shanshenbuai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "704cd322-c33f-400a-a460-44e544d7b6bc",
+    "title": "ShanShenBu AI",
+    "type": "web"
+  },
+  {
+    "url": "https://unforgettablecarai.cc",
+    "description": "一张自拍生成约10秒 9:16 纸牌揭车短视频（独立粉丝工具）",
+    "image": "https://unforgettablecarai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "c799a0e8-6ec6-4d55-be2e-4b73ca1aa317",
+    "title": "Unforgettable Car AI",
+    "type": "web"
+  },
+  {
+    "url": "https://venomcarai.cc",
+    "description": "一张车照片生成约15秒黑液车库组装短视频（独立粉丝工具）",
+    "image": "https://venomcarai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "5dbd8a2a-d5ef-4301-9655-2bfa698ec27c",
+    "title": "Venom Car AI",
+    "type": "web"
+  },
+  {
+    "url": "https://venommakeup.cc",
+    "description": "一张照片生成约10秒 9:16 万圣节半脸黑液短视频（独立粉丝工具）",
+    "image": "https://venommakeup.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "c55d1ba8-e2aa-433d-96f8-878865deb2da",
+    "title": "venommakeup AI",
+    "type": "web"
+  },
+  {
+    "url": "https://victoriasecretai.cc",
+    "description": "一张照片生成约10秒 9:16 天使翅膀走秀短视频（独立粉丝工具）",
+    "image": "https://victoriasecretai.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "7516462f-1096-469b-964f-93845c8f9b31",
+    "title": "Victoria Secret AI",
+    "type": "web"
+  },
+  {
+    "url": "https://whitechicks.cc",
+    "description": "1–2张照片生成约10–12秒 9:16 夜景敞篷车对唱短视频（双人或宠物，独立粉丝工具）",
+    "image": "https://whitechicks.cc/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "1b021904-386f-4d46-8f81-d153d239518d",
+    "title": "White Chicks AI",
+    "type": "web"
+  },
+  {
+    "url": "https://wywmysweetie.run",
+    "description": "一张照片生成约13秒 9:16 jersey-club 舞蹈短视频（独立粉丝工具）",
+    "image": "https://wywmysweetie.run/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "fabe6f02-572f-4203-994b-3097d6b0dc24",
+    "title": "wywmysweetie AI",
+    "type": "web"
+  },
+  {
+    "url": "https://aizombie.app",
+    "description": "两张照片生成竖屏僵尸爱情故事短视频（独立粉丝工具）",
+    "image": "https://aizombie.app/favicon.ico",
+    "category": [
+      "视频工具"
+    ],
+    "id": "b5824818-80ad-4b58-be4e-364f28cd0c44",
+    "title": "ZombieHug",
+    "type": "web"
   }
 ]
